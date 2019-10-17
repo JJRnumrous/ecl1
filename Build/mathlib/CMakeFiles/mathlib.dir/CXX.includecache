@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jjr/DataFiles/Development/ecl1/mathlib/mathlib.cpp
+mathlib.h
+/home/jjr/DataFiles/Development/ecl1/mathlib/mathlib.h
+
+/home/jjr/DataFiles/Development/ecl1/mathlib/mathlib.h
+mathlib/mathlib.h
+-
+

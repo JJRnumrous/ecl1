@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jjr/DataFiles/Development/ecl1/Build/CMakeFiles/matrix"
+		},
+		{
+			"file" : "/home/jjr/DataFiles/Development/ecl1/Build/CMakeFiles/matrix.rule"
+		},
+		{
+			"file" : "/home/jjr/DataFiles/Development/ecl1/Build/CMakeFiles/matrix-complete.rule"
+		},
+		{
+			"file" : "/home/jjr/DataFiles/Development/ecl1/Build/matrix-prefix/src/matrix-stamp/matrix-install.rule"
+		},
+		{
+			"file" : "/home/jjr/DataFiles/Development/ecl1/Build/matrix-prefix/src/matrix-stamp/matrix-mkdir.rule"
+		},
+		{
+			"file" : "/home/jjr/DataFiles/Development/ecl1/Build/matrix-prefix/src/matrix-stamp/matrix-download.rule"
+		},
+		{
+			"file" : "/home/jjr/DataFiles/Development/ecl1/Build/matrix-prefix/src/matrix-stamp/matrix-update.rule"
+		},
+		{
+			"file" : "/home/jjr/DataFiles/Development/ecl1/Build/matrix-prefix/src/matrix-stamp/matrix-patch.rule"
+		},
+		{
+			"file" : "/home/jjr/DataFiles/Development/ecl1/Build/matrix-prefix/src/matrix-stamp/matrix-configure.rule"
+		},
+		{
+			"file" : "/home/jjr/DataFiles/Development/ecl1/Build/matrix-prefix/src/matrix-stamp/matrix-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"matrix"
+		],
+		"name" : "matrix"
+	}
+}

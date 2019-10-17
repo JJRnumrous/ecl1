@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jjr/DataFiles/Development/ecl1/validation/data_validator.h
+cmath
+-
+stdint.h
+-
+
+/home/jjr/DataFiles/Development/ecl1/validation/tests/test_data_validator.cpp
+stdint.h
+-
+cassert
+-
+math.h
+-
+../data_validator.h
+/home/jjr/DataFiles/Development/ecl1/validation/data_validator.h
+

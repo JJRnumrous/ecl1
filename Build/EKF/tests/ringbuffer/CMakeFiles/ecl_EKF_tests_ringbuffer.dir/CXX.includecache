@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//EKF/RingBuffer.h
+inttypes.h
+-
+cstdio
+-
+cstring
+-
+
+/home/jjr/DataFiles/Development/ecl1/EKF/tests/ringbuffer/ringbuffer.cpp
+stdint.h
+-
+cassert
+-
+EKF/RingBuffer.h
+-
+

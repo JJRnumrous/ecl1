@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+..//mathlib/mathlib.h
+mathlib/mathlib.h
+-
+
+/home/jjr/DataFiles/Development/ecl1/geo_lookup/geo_mag_declination.cpp
+geo_mag_declination.h
+/home/jjr/DataFiles/Development/ecl1/geo_lookup/geo_mag_declination.h
+mathlib/mathlib.h
+-
+stdint.h
+-
+
+/home/jjr/DataFiles/Development/ecl1/geo_lookup/geo_mag_declination.h
+
